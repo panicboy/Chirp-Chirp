@@ -1,0 +1,23 @@
+{
+  "name": "Chirp-Chirp",
+  "version": "1.0.0",
+  "description": "recursive exercise",
+  "main": "chirp-o-tron.js",
+  "scripts": {
+    "test": "mocha --watch --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panicboy/Chirp-Chirp.git"
+  },
+  "author": "panicboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panicboy/Chirp-Chirp/issues"
+  },
+  "homepage": "https://github.com/panicboy/Chirp-Chirp#readme",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
