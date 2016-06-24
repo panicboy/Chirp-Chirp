@@ -1,8 +1,8 @@
 function multiChirp(num){
-  if(num > 0){
+  if(num > 1){
     return 'Chirp ' + multiChirp(--num);
   }
-  return '';
+  return 'Chirp';
 }
 
 
